@@ -1,0 +1,10 @@
+
+*.pro.user*
+/bin/*
+CHANGELOG.html
+TODO.html
+README.html
+
+
+!.gitkeep
+

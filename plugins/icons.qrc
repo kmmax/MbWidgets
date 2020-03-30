@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>button.png</file>
+        <file>IndicatorAutoNo.png</file>
+        <file>greenLedOn.png</file>
+        <file>../resources/images/indicator.png</file>
+    </qresource>
+</RCC>
